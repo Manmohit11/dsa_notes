@@ -68,7 +68,7 @@ void insertAtPos(Node* & head,Node* & tail, int pos, int d){
 
 }
 
-vfhyjmumk
+
 // deleting element from given position
 void deletion(Node* & head,Node* & tail, int pos){
 
